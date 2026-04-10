@@ -1,4 +1,4 @@
-# Fixed To-Do App CI/CD Project
+#To-Do App CI/CD Project
 
 ## Stack
 - Flask API
